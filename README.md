@@ -1,6 +1,6 @@
 # MongoDB for VSCode: Be More Productive When You Build Applications
 
-MongoDB.live, 13.07.2021
+[MongoDB.live](https://mongodb.live), 13.07.2021
 
 Developers prototyping with data often lack the tools to help them remember exact query syntax and to debug intermediate query results. A workspace with context-aware code completion and embedded utilities would greatly augment their development experience and productivity and remove the need to switch between applications.
 
