@@ -15,3 +15,5 @@ The MongoDB for VSCode [product page](https://www.mongodb.com/products/vs-code) 
 Also check out the how to work with MongoDB tutorial written [by VSCode](https://code.visualstudio.com/docs/azure/mongodb).
 
 <img src="./slide-001.png" alt="The first slide from my talk" width="600"/>
+
+<img src="./hopin.png" alt="A screenshot from the hopin streaming" width="600"/>
