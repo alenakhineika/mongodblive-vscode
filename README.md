@@ -1,6 +1,6 @@
 # MongoDB for VSCode: Be More Productive When You Build Applications
 
-[MongoDB.live](https://mongodb.live), 13.07.2021
+[MongoDB.live](https://mongodb.live) conference, 13.07.2021
 
 Developers prototyping with data often lack the tools to help them remember exact query syntax and to debug intermediate query results. A workspace with context-aware code completion and embedded utilities would greatly augment their development experience and productivity and remove the need to switch between applications.
 
@@ -8,12 +8,14 @@ The MongoDB extension for VSCode allows developers to work with data alongside t
 
 In this talk, we will explore the main extension features, dive deep into JavaScript environments, called MongoDB playgrounds, and look at how they work under the hood. Whether you are interested in technical details or just want to improve your development processes and toolchains, this talk is for you.
 
-You can find the talk recording [here](https://www.youtube.com/watch?v=gvcOYitD8Pw), view [slides](https://slides.com/alenakhineika/vscode), and lear more about the language server with child threads from my [blogpost](https://medium.com/dailyjs/the-language-server-with-child-threads-38ae915f4910).
+Check out the talk [recording](https://www.youtube.com/watch?v=gvcOYitD8Pw), explore just [slides](./mdblive-slides.pdf), or lear more about the language server with child threads from my [blogpost](https://medium.com/dailyjs/the-language-server-with-child-threads-38ae915f4910).
 
-The MongoDB for VSCode [product page](https://www.mongodb.com/products/vs-code) provides other useful resources, such as the official documentation, links to the community forum and the Visual Studio marketplace.
+[Download](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) the extension.
 
-Also check out the how to work with MongoDB tutorial written [by VSCode](https://code.visualstudio.com/docs/azure/mongodb).
+The MongoDB for VSCode [product page](https://www.mongodb.com/products/vs-code).
 
-<img src="./slide-001.png" alt="The first slide from my talk" width="600"/>
+[Working with MongoDB](https://code.visualstudio.com/docs/azure/mongodb) tutorial from VSCode documentation.
 
-<img src="./hopin.png" alt="A screenshot from the hopin streaming" width="600"/>
+<img src="./mdblive-slide-001.png" alt="The first slide from my talk" width="600"/>
+
+<img src="./mdblive-hopin.png" alt="A screenshot from the hopin streaming" width="600"/>
