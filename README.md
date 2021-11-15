@@ -8,7 +8,7 @@ The MongoDB extension for VSCode allows developers to work with data alongside t
 
 In this talk, we will explore the main extension features, dive deep into JavaScript environments, called MongoDB playgrounds, and look at how they work under the hood. Whether you are interested in technical details or just want to improve your development processes and toolchains, this talk is for you.
 
-Check out the talk [recording](https://www.youtube.com/watch?v=gvcOYitD8Pw), explore just [slides](./mdblive-slides.pdf), or lear more about the language server with child threads from my [blogpost](https://medium.com/dailyjs/the-language-server-with-child-threads-38ae915f4910).
+Check out the talk [recording](https://www.youtube.com/watch?v=gvcOYitD8Pw), explore just [slides](./mdblive-slides.pdf), or learn more about the language server with child threads from my [blogpost](https://medium.com/dailyjs/the-language-server-with-child-threads-38ae915f4910).
 
 [Download](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) the extension.
 
